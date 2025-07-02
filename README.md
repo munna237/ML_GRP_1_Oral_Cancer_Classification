@@ -39,15 +39,15 @@ This project implements a deep learning pipeline to detect **oral cancer** using
 
 ## 🧾 Project Structure
 
-oral-cancer-ssl/
-├── data/ # Raw and processed datasets
-├── pretraining/ # Self-supervised learning scripts
-├── finetuning/ # Supervised fine-tuning scripts
-├── models/ # Model architectures
-├── notebooks/ # Jupyter notebooks for experiments
-├── utils/ # Utility scripts
-├── results/ # Metrics, plots, and outputs
-└── README.md # Project overview
+# oral-cancer-ssl/
+# ├── data/ # Raw and processed datasets
+# ├── pretraining/ # Self-supervised learning scripts
+# ├── finetuning/ # Supervised fine-tuning scripts
+# ├── models/ # Model architectures
+# ├── notebooks/ # Jupyter notebooks for experiments
+# ├── utils/ # Utility scripts
+# ├── results/ # Metrics, plots, and outputs
+# └── README.md # Project overview
 
 ## 🤝 Acknowledgements
 
