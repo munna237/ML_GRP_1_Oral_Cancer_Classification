@@ -56,7 +56,7 @@ I would like to express my sincere gratitude to my supervisor:
 **[Dr. Raihan Ul Islam](https://scholar.google.com/citations?user=mjWULyIAAAAJ&hl=en)**  
 Associate Professor  
 Department of Computer Science & Engineering
-East West University
+*East West University*
 📧 raihan.islam@ewubd.edu
 
 ---
