@@ -21,8 +21,6 @@ This project implements a deep learning pipeline to detect **oral cancer** using
   - Normalization
   - Augmentation (horizontal flip, color jitter, etc.)
 
-> **Note**: If your dataset is private, please mention that data access is restricted.
-
 ---
 
 ## 🧪 Methodology
